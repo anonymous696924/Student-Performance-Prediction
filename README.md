@@ -266,6 +266,6 @@ To modify the system:
 
 ---
 
-**Author**: AI-Generated for Student Performance Prediction  
+**Author**: Rajdeep  
 **Last Updated**: January 2026  
 **Status**: Production Ready
