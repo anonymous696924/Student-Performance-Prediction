@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Large model files (optional - uncomment to exclude)
+# models/*.pkl
+# models/*.joblib
+
+# Generated predictions (optional - uncomment to exclude)
+# predictions.csv
+# predictions_*.csv
+
+# Temporary files
+*.tmp
+*.bak
+~*

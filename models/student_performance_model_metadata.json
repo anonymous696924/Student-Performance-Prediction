@@ -1,0 +1,21 @@
+{
+  "model_type": "random_forest",
+  "feature_names": [
+    "AttendanceRate",
+    "StudyHoursPerWeek",
+    "PreviousGrade",
+    "ExtracurricularActivities",
+    "Online Classes Taken",
+    "Gender_Male",
+    "ParentalSupport_Low",
+    "ParentalSupport_Medium"
+  ],
+  "metrics": {
+    "cv_r2_mean": -0.09419048605831937,
+    "cv_r2_std": 0.06019332874241073,
+    "test_mae": 8.206774388227513,
+    "test_rmse": 9.834769669023114,
+    "test_r2": -0.09748445165630071,
+    "test_mse": 96.72269444273701
+  }
+}
